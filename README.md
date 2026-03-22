@@ -34,8 +34,8 @@
 
 ### 📊 Статистика GitHub
 
-![Zhenya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evgeniy_Osipov&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeniy_Osipov&layout=compact&theme=radical)
+![Zhenya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nw1IE&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nw1IE&layout=compact&theme=radical)
 
 ---
 
