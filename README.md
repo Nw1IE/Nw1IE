@@ -1,48 +1,52 @@
-# Привет, я Женя! 👋
+# Привет! Я Евгений 👋
 
-### 👨‍💻 Software Engineer & Web Developer
+### 👨‍💻 Software Engineer | System & Web Developer
 
-Я увлекаюсь созданием эффективных решений — от высокопроизводительных системных приложений на C++ до динамичных и отзывчивых веб-интерфейсов. Люблю чистый код, семантику и автоматизацию.
-
----
-
-### 🚀 Мой стек технологий
-
-**Frontend & Design**
-* **Languages:** HTML5 (Semantic), CSS3, JavaScript (ES6+)
-* **Concepts:** DOM Manipulation, High-performance UI/UX, CSS Animations
-
-**System & Backend**
-* **Languages:** C#, C++, Python
-* **Frameworks/Tools:** .NET (WPF), WinAPI, GDI+, CustomTkinter
-* **Automation:** Telegram Bots (Aiogram, Telegram.Bot SDK)
-
-**Tools & Workflow**
-* **VCS:** Git (даже разработал собственный прототип VCS на C#!)
-* **System:** ADB (Android Debug Bridge), Screen Mirroring, Proxy Management
+Я увлекаюсь созданием архитектурно сложных систем и динамических веб-приложений. Мой фокус — это сочетание производительности низкоуровневых языков с гибкостью современных фронтенд-технологий.
 
 ---
 
-### 🛠️ Над чем я работаю
+### 🛠 Мой стек технологий
 
-* **Multimedia:** Создаю кастомные аудио-плееры на WPF и интерактивные лендинги с синхронизацией аудио и текста.
-* **Automation:** Разрабатываю Telegram-ботов для скачивания контента и управления прокси.
-* **System Tools:** Экспериментирую с трансляцией экрана мобильных устройств на ПК через WinAPI.
-* **Web Apps:** Пишу блоги с продвинутой фильтрацией, поиском и динамической подгрузкой данных.
+**Системное и прикладное программирование**
+* **Languages:** C++, C#, Java (Core)
+* **Frameworks/Tools:** .NET (WPF), WinAPI, GDI+
+* **Projects:** Разработка собственной системы контроля версий (VCS), приложения для зеркалирования экрана (Screen Mirroring) и десктопные аудио-плееры.
+
+**Веб-разработка**
+* **Frontend:** HTML5 (Semantic), CSS3, JavaScript (ES6+)
+* **Experience:** Создание интерактивных лендингов с анимациями, синхронизация аудио и текста, разработка динамических блогов с продвинутой фильтрацией данных.
+
+**Автоматизация и инструменты**
+* **Bots:** Создание многофункциональных Telegram-ботов (управление прокси, загрузка контента).
+* **Workflow:** Git, ADB, работа с сетевыми протоколами.
 
 ---
 
-### 📊 Статистика GitHub
-
-![Zhenya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nw1IE&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nw1IE&layout=compact&theme=radical)
+### 🚀 Технологии в иконках
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,java,js,html,css,dotnet,visualstudio,git,py" />
+  </a>
+</p>
 
 ---
 
-### 📫 Как меня найти
+### 📊 Моя статистика GitHub
 
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Nw1IE&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nw1IE&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Как со мной связаться
 * **Telegram:** [@твой_ник]
-* **Email:** [твой_email@example.com]
+* **LinkedIn:** [ссылка_на_профиль]
 
 ---
-*"Код — это искусство, которое должно работать идеально."*
+*"Пишу код, который работает быстро, и интерфейсы, которые выглядят эффектно."*
