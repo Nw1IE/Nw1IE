@@ -86,9 +86,3 @@ I am currently diving deeper into **ASP.NET Core** architecture, advanced **Post
     <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nw1IE&show_icons=true&theme=radial&hide_border=true" alt="Evgeniy's GitHub Stats" />
-</p>
