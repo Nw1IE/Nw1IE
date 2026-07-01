@@ -1,16 +1,16 @@
-# Привет! Я Евгений 👋
+# Hi there! I'm Evgeniy 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+Scalable+Backend;Crafting+Modern+Web+Interfaces" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  Я разработчик, сфокусированный на создании производительных серверных систем и создании адаптивных, визуально привлекательных интерфейсов. Мне нравится совмещать строгую бизнес-логику бэкенда с чистым, семантичным и отзывчивым фронтендом.
+  I am a developer focused on creating high-performance server-side systems and designing responsive, visually appealing interfaces. I enjoy bridging the gap between robust backend logic and clean, semantic, and responsive frontend applications.
 </p>
 
 ---
 
-## 🛠 Технологический стек
+## 🛠 Tech Stack
 
 ### 🌐 Frontend Development
 <p align="left">
@@ -23,8 +23,8 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
-* **Верстка & Стили:** HTML5 (Семантическая верстка), CSS3 (Flexbox, Grid, Современные UI-эффекты)
-* **Инструменты дизайна:** Figma для прототипирования и работы с макетами
+* **Layout & Styling:** HTML5 (Semantic markup), CSS3 (Flexbox, Grid, Modern UI effects)
+* **Design & Prototyping:** Figma for UI/UX wireframing and layouts
 
 ### ⚙️ Backend & Systems Development
 <p align="left">
@@ -36,56 +36,59 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-* **Бэкенд:** C#, .NET (ASP.NET Core), проектирование баз данных в PostgreSQL
-* **Системная / Десктопная разработка:** C++, Qt / QML
+* **Backend Development:** C#, .NET (ASP.NET Core), database design with PostgreSQL
+* **System & Desktop Development:** C++, Qt / QML
 
 ---
 
-## 🚀 Выделенные проекты (Pet-Projects)
+## 🚀 Highlight Projects (Pet Projects)
 
-*Каждый проект — это шаг к освоению новых подходов архитектуры и интерфейсов.*
+*Each project represents a milestone in mastering new architecture patterns and user interfaces.*
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🍸 <a href="https://github.com/Nw1IE/Day-Night-Bar">Day-Night-Bar</a></h3>
-      <p><b>Описание:</b> Современный веб-сайт для ночного бара с адаптивным интерфейсом и атмосферой ночного города.</p>
-      <p><b>Технологии:</b> React, Vite, JavaScript, HTML5/CSS3</p>
-      <p><i>Реализована семантическая структура страниц с использованием кастомных стилей и плавных переходов, обеспечивающих высокий визуальный отклик.</i></p>
+      <p><b>Description:</b> A modern website for a nightclub featuring a fully responsive layout and a vibrant nightlife-inspired aesthetic.</p>
+      <p><b>Tech Stack:</b> React, Vite, JavaScript, HTML5/CSS3</p>
+      <p><i>Implemented semantic page layout integrated with custom styling and smooth transitions to deliver a high-quality visual response.</i></p>
     </td>
     <td width="50%" valign="top">
       <h3>📝 <a href="https://github.com/Nw1IE/Blog">Blog Platform</a></h3>
-      <p><b>Описание:</b> Легковесная и быстрая платформа для публикации статей и блогинга.</p>
-      <p><b>Технологии:</b> React, JavaScript, HTML5/CSS3</p>
-      <p><i>Разработана чистая структура компонентов без лишней разметки, сделан упор на семантические теги и удобную модульную сетку для чтения контента.</i></p>
+      <p><b>Description:</b> A lightweight and high-performance web platform for publishing articles and microblogging.</p>
+      <p><b>Tech Stack:</b> React, JavaScript, HTML5/CSS3</p>
+      <p><i>Engineered a clean component structure stripped of unnecessary markup, focusing deeply on semantic tags and an optimal layout grid for readability.</i></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" colspan="2">
       <h3>🖼 <a href="https://github.com/Nw1IE/Live-ToDo-Wallpaper">Live ToDo Wallpaper</a></h3>
-      <p><b>Описание:</b> Экспериментальное десктопное приложение, совмещающее функции «живых» обоев рабочего стола и трекера задач (To-Do List).</p>
-      <p><b>Технологии:</b> C++, C#, Qt</p>
-      <p><i>Исследование возможностей кастомного рендеринга на рабочем столе и системной интеграции. Пример работы с оконными интерфейсами на стыке С-стека и .NET.</i></p>
+      <p><b>Description:</b> An experimental desktop/system application that seamlessly merges custom live wallpapers with a fully functional To-Do list tracker.</p>
+      <p><b>Tech Stack:</b> C++, C#, Qt</p>
+      <p><i>Explored the boundaries of custom desktop rendering and operating system integration. Serves as a practical showcase of bridging C-based frameworks and the .NET runtime environment.</i></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📈 Мой фокус сейчас
-В данный момент я активно углубляюсь в архитектуру **ASP.NET Core**, проектирование баз данных в **PostgreSQL** и создание масштабируемых веб-приложений на связке **React + .NET**. Также увлекаюсь автоматизацией процессов и системным программированием.
+## 📈 Core Focus Right Now
+I am currently diving deeper into **ASP.NET Core** architecture, advanced **PostgreSQL** database optimization, and building full-stack scalable web applications powered by **React + .NET**. Additionally, I am passionate about workflow automation and system-level programming.
 
 ---
 
-## 🤝 Связаться со мной
+## 🤝 Let's Connect!
 <p align="left">
   <a href="https://github.com/Nw1IE" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://t.me/FutureDriver" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nw1IE&show_icons=true&theme=radial&hide_border=true" alt="Евгений's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nw1IE&show_icons=true&theme=radial&hide_border=true" alt="Evgeniy's GitHub Stats" />
 </p>
