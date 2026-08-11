@@ -13,14 +13,18 @@
 ## 🛠 Tech Stack
 
 ### 🌐 Frontend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vite,html,css,figma,tailwind" />
+</p>
+
+### ⚙️ Backend & Systems Development
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,qt" />
+</p>
+
+### 🗄️ Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,git" />
 </p>
 
 * **Layout & Styling:** HTML5 (Semantic markup), CSS3 (Flexbox, Grid, Modern UI effects)
