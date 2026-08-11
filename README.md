@@ -30,16 +30,6 @@
 * **Layout & Styling:** HTML5 (Semantic markup), CSS3 (Flexbox, Grid, Modern UI effects)
 * **Design & Prototyping:** Figma for UI/UX wireframing and layouts
 
-### ⚙️ Backend & Systems Development
-<p align="left">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Qt-%2341CD52.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="Qt"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
 * **Backend Development:** C#, .NET (ASP.NET Core), database design with PostgreSQL
 * **System & Desktop Development:** C++, Qt / QML
 
