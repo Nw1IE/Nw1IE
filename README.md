@@ -10,12 +10,6 @@
 
 ---
 
-## 🚀 What I'm Doing Right Now
-* **🎯 Major Goal:** Developing an advanced full-stack application with real-time features and local AI processing for my upcoming graduation diploma and demo-exam (2027).
-* **📚 Deep Dive:** Mastering advanced **ASP.NET Core** architecture, WebSocket communication, and **PostgreSQL** optimization.
-
----
-
 ## 🛠 Tech Stack
 
 ### 🌐 Frontend Development
@@ -28,19 +22,20 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,qt" />
 </p>
 
-### 🗄️ Databases & Tools
+### 🗄 Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,git,docker" />
+  <img src="https://skillicons.dev/icons?i=postgres,git" />
 </p>
 
-* **Layout & Styling:** HTML5 (Semantic markup), CSS3 (Flexbox, Grid, Glassmorphism, Modern UI effects)
-* **Design & Prototyping:** Figma for UI/UX wireframing and layouts
-* **Backend Development:** C#, .NET (ASP.NET Core), REST APIs, WebSockets, Entity Framework Core
-* **System & Desktop Development:** C++, Qt / QML, desktop integration
+* Layout & Styling: HTML5 (Semantic markup), CSS3 (Flexbox, Grid, Modern UI effects)
+* Design & Prototyping: Figma for UI/UX wireframing and layouts
+
+* Backend Development: C#, .NET (ASP.NET Core), database design with PostgreSQL
+* System & Desktop Development: C++, Qt / QML
 
 ---
 
-## 💡 Highlight Projects (Pet Projects)
+## 🚀 Highlight Projects (Pet Projects)
 
 *Each project represents a milestone in mastering new architecture patterns and user interfaces.*
 
@@ -71,10 +66,8 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nw1IE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=12,12,14" alt="Evgeniy's GitHub Stats" />
-</p>
+## 📈 Core Focus Right Now
+I am currently diving deeper into ASP.NET Core architecture, advanced PostgreSQL database optimization, and building full-stack scalable web applications powered by React + .NET. Additionally, I am passionate about workflow automation and system-level programming.
 
 ---
 
